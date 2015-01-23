@@ -1,7 +1,7 @@
 # Learning From Data - Solutions
 
 This is the code/math I wrote in order to solve most of the assignments of
-[Learning From Data](https://www.edx.org/course/caltechx/cs1156x/learning-data/1120),
+[Learning From Data](https://www.edx.org/course/learning-data-caltechx-cs1156x),
 a machine learning course by Caltech.
 
 **Disclaimer:** Don't follow this material blindly, it might be wrong. Use
