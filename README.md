@@ -36,6 +36,12 @@ with the following subdirectories:
   <dd>Octave code that answers the more practical questions</dd>
 </dl>
 
+## Donate
+
+If this project is useful for you, buy me a beer!
+
+Bitcoin: `bc1qtwyfcj7pssk0krn5wyfaca47caar6nk9yyc4mu`
+
 ## License
 
 ### Code And Plots
